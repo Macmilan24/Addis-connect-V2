@@ -12,7 +12,7 @@ const LoginImageSection = () => {
       </p>
       <div className="flex justify-center my-6">
         <img
-          src="/img/logo.jpg"
+          src={`${process.env.PUBLIC_URL}/img/logo.jpg`}
           alt="Challenge"
           className="w-58 h-58 rounded-full object-cover"
         />
