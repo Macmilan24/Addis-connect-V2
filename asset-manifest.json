@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Addis-connect-V2/static/css/main.ca1dd1c8.css",
-    "main.js": "/Addis-connect-V2/static/js/main.b9959259.js",
+    "main.js": "/Addis-connect-V2/static/js/main.16693023.js",
     "index.html": "/Addis-connect-V2/index.html",
     "main.ca1dd1c8.css.map": "/Addis-connect-V2/static/css/main.ca1dd1c8.css.map",
-    "main.b9959259.js.map": "/Addis-connect-V2/static/js/main.b9959259.js.map"
+    "main.16693023.js.map": "/Addis-connect-V2/static/js/main.16693023.js.map"
   },
   "entrypoints": [
     "static/css/main.ca1dd1c8.css",
-    "static/js/main.b9959259.js"
+    "static/js/main.16693023.js"
   ]
 }
