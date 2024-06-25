@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Addis-connect-V2/static/css/main.ca1dd1c8.css",
+    "main.js": "/Addis-connect-V2/static/js/main.1386c901.js",
+    "index.html": "/Addis-connect-V2/index.html",
+    "main.ca1dd1c8.css.map": "/Addis-connect-V2/static/css/main.ca1dd1c8.css.map",
+    "main.1386c901.js.map": "/Addis-connect-V2/static/js/main.1386c901.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca1dd1c8.css",
+    "static/js/main.1386c901.js"
+  ]
+}
