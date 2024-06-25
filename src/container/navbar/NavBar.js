@@ -29,7 +29,7 @@ export default function NavBar() {
       <div className=" h-24 flex items-center justify-evenly">
         <div className=" h-full w-1/4 flex justify-center">
           <img
-            src="/img/logo.jpg"
+            src={`${process.env.PUBLIC_URL}/img/logo.png`}
             alt="logo"
             className=" h-20 w-40 object-cover"
           />

@@ -5,19 +5,19 @@ const stories = [
     title: "Community Garden",
     description:
       "Thanks to our volunteers, we now have a flourishing community garden.",
-    image: "/img/community-gardens.jpg",
+    image: `${process.env.PUBLIC_URL}/img/community-gardens.jpg`,
   },
   {
     title: "Park Renovation",
     description:
       "Our local park has been renovated with new benches and playground equipment.",
-    image: "/img/Park.jpg",
+    image: `${process.env.PUBLIC_URL}/img/Park.jpg`,
   },
   {
     title: "Street Cleanup",
     description:
       "Our volunteers successfully cleaned up the main street, making it safer and cleaner.",
-    image: "/img/Street-cleanup.jpeg",
+    image: `${process.env.PUBLIC_URL}/img/Street-cleanup.jpeg`,
   },
 ];
 
