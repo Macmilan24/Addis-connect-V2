@@ -7,7 +7,7 @@ import PotholePage from "./assets/pages/PotholePage";
 export default function App() {
   return (
     <div className="">
-      <Router>
+      <Router basename="/Addis-connect-V2">
         <Routes>
           <Route path="/" element={<LandingPage />} />
           <Route path="/register" element={<LoginPage />} />
